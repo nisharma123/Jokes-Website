@@ -1,0 +1,118 @@
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    /* background-color: #F5EFFF; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    /* color: #A888B5; */
+    color: #0C3C78;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 35px;
+    /* font-weight: normal; */
+    font-weight: bold;
+    /* color: #CB9DF0; */
+    color: #1F509A;
+}
+
+/* input {
+    padding: 5px;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 350px;
+    color: white;
+    background-color: #CDC1FF;
+    font-size: 25px;
+    font-weight: normal;
+    border-color: white;
+    margin-bottom: 5px;
+    margin-top: 10px;
+} */
+
+#submit {
+    padding: 10px;
+    width: 150px;
+    /* background-color: #E4B1F0; */
+    background-color: #E38E49;
+    color: white;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    /* border: 5px solid white; */
+    border: 5px solid black;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: center;
+    /* color: #E3A5C7; */
+    color: #F30A49;
+    /* font-weight: normal; */
+    font-weight: bold;
+    font-size: 35px;
+    padding: 20px;
+    margin: 10px;
+}
+
+
+::placeholder {
+    color: white;
+}
+
+a {
+    /* color: #A888B5; */
+    color: #81BFDA;
+    font-size: x-large;
+    margin-left: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    padding-top: 20px;
+
+}
+
+footer {
+    position: absolute; 
+    bottom: 0; 
+    left: 0;
+    width: 100%;
+}
+
+select {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 150px;
+    /* background-color: #CDC1FF; */
+    background-color: #E38E49;
+    font-size: large;
+    font-weight: bold;
+}
+
+#categories {
+    width: 150px;
+    font-size: large;
+    font-weight: bold;
+}
+
+#blacklistFlags {
+    width: 120px;
+}
